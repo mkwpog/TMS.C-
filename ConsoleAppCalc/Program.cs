@@ -36,7 +36,7 @@
                 return;
             }
 
-            Console.Write("imput operation: [+],[-],[/],[*],[%],[sqrt] :");
+            Console.Write("imput operation: [+],[-],[/],[*],[p],[sqrt] :");
             var operation = Console.ReadLine();
             object res = operation switch
             {
@@ -45,7 +45,7 @@
                 "-" => value1 - value2,
                 "/" => value1 / value2,
                 "*" => value1 * value2,
-                "%" => value1 * value3 / 100,
+                "p" => value1 * value3/100,
                 "sqrt" => Math.Sqrt(value4),
 
 
