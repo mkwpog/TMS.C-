@@ -7,7 +7,7 @@ namespace ConsoleAppHW5
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Введите строку текста:");
+            Console.WriteLine("Введите строку текста:"); //pull
             string input = Console.ReadLine();
 
             while (true)
@@ -53,7 +53,7 @@ namespace ConsoleAppHW5
             }
         }
 
-        static void WordsWithMaxDigits(string input)
+        static void WordsWithMaxDigits(string input) // классы подсмотрел не сам делал
         {
             var words = input.Split(new[] { ' ', '\t', '\n', '\r' }, StringSplitOptions.RemoveEmptyEntries);
             int maxDigits = words.Max(w => w.Count(char.IsDigit));
