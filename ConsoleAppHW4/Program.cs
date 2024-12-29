@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Введите размер матрицы (строки и столбцы):");
+            Console.WriteLine("Введите размер матрицы (строки и столбцы):"); //pull
             Console.Write("Количество строк: ");
             int rows = int.Parse(Console.ReadLine());
             Console.Write("Количество столбцов: ");
