@@ -1,0 +1,15 @@
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppHW4\ConsoleAppHW4\bin\Debug\net8.0\ConsoleAppHW4.exe
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppHW4\ConsoleAppHW4\bin\Debug\net8.0\ConsoleAppHW4.deps.json
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppHW4\ConsoleAppHW4\bin\Debug\net8.0\ConsoleAppHW4.runtimeconfig.json
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppHW4\ConsoleAppHW4\bin\Debug\net8.0\ConsoleAppHW4.dll
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppHW4\ConsoleAppHW4\bin\Debug\net8.0\ConsoleAppHW4.pdb
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppHW4\ConsoleAppHW4\obj\Debug\net8.0\ConsoleAppHW4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppHW4\ConsoleAppHW4\obj\Debug\net8.0\ConsoleAppHW4.AssemblyInfoInputs.cache
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppHW4\ConsoleAppHW4\obj\Debug\net8.0\ConsoleAppHW4.AssemblyInfo.cs
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppHW4\ConsoleAppHW4\obj\Debug\net8.0\ConsoleAppHW4.csproj.CoreCompileInputs.cache
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppHW4\ConsoleAppHW4\obj\Debug\net8.0\ConsoleAppHW4.sourcelink.json
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppHW4\ConsoleAppHW4\obj\Debug\net8.0\ConsoleAppHW4.dll
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppHW4\ConsoleAppHW4\obj\Debug\net8.0\refint\ConsoleAppHW4.dll
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppHW4\ConsoleAppHW4\obj\Debug\net8.0\ConsoleAppHW4.pdb
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppHW4\ConsoleAppHW4\obj\Debug\net8.0\ConsoleAppHW4.genruntimeconfig.cache
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppHW4\ConsoleAppHW4\obj\Debug\net8.0\ref\ConsoleAppHW4.dll
