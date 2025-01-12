@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Введите имя собаки:");
+            Console.WriteLine("Введите имя собаки:");//pull
             string dogName = Console.ReadLine();
 
             Dog myDog = new Dog();
