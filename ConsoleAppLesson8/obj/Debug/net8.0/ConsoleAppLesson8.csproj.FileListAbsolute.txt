@@ -1,0 +1,15 @@
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppLesson8\ConsoleAppLesson8\obj\Debug\net8.0\ConsoleAppLesson8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppLesson8\ConsoleAppLesson8\obj\Debug\net8.0\ConsoleAppLesson8.AssemblyInfoInputs.cache
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppLesson8\ConsoleAppLesson8\obj\Debug\net8.0\ConsoleAppLesson8.AssemblyInfo.cs
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppLesson8\ConsoleAppLesson8\obj\Debug\net8.0\ConsoleAppLesson8.csproj.CoreCompileInputs.cache
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppLesson8\ConsoleAppLesson8\obj\Debug\net8.0\ConsoleAppLesson8.sourcelink.json
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppLesson8\ConsoleAppLesson8\bin\Debug\net8.0\ConsoleAppLesson8.exe
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppLesson8\ConsoleAppLesson8\bin\Debug\net8.0\ConsoleAppLesson8.deps.json
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppLesson8\ConsoleAppLesson8\bin\Debug\net8.0\ConsoleAppLesson8.runtimeconfig.json
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppLesson8\ConsoleAppLesson8\bin\Debug\net8.0\ConsoleAppLesson8.dll
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppLesson8\ConsoleAppLesson8\bin\Debug\net8.0\ConsoleAppLesson8.pdb
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppLesson8\ConsoleAppLesson8\obj\Debug\net8.0\ConsoleAppLesson8.dll
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppLesson8\ConsoleAppLesson8\obj\Debug\net8.0\refint\ConsoleAppLesson8.dll
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppLesson8\ConsoleAppLesson8\obj\Debug\net8.0\ConsoleAppLesson8.pdb
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppLesson8\ConsoleAppLesson8\obj\Debug\net8.0\ConsoleAppLesson8.genruntimeconfig.cache
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppLesson8\ConsoleAppLesson8\obj\Debug\net8.0\ref\ConsoleAppLesson8.dll
