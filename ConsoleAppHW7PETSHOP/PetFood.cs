@@ -8,7 +8,7 @@ namespace ConsoleAppHW7PETSHOP
 {
     public class PetFood : Product
     {
-        public string AnimalType { get; set; } 
+        public string AnimalType { get; set; } //pull
 
         public PetFood(int id, string name, decimal price, int stock, string animalType)
             : base(id, name, price, stock)
