@@ -1,0 +1,15 @@
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppHW7PETSHOP\ConsoleAppHW7PETSHOP\obj\Debug\net8.0\ConsoleAppHW7PETSHOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppHW7PETSHOP\ConsoleAppHW7PETSHOP\obj\Debug\net8.0\ConsoleAppHW7PETSHOP.AssemblyInfoInputs.cache
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppHW7PETSHOP\ConsoleAppHW7PETSHOP\obj\Debug\net8.0\ConsoleAppHW7PETSHOP.AssemblyInfo.cs
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppHW7PETSHOP\ConsoleAppHW7PETSHOP\obj\Debug\net8.0\ConsoleAppHW7PETSHOP.csproj.CoreCompileInputs.cache
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppHW7PETSHOP\ConsoleAppHW7PETSHOP\obj\Debug\net8.0\ConsoleAppHW7PETSHOP.sourcelink.json
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppHW7PETSHOP\ConsoleAppHW7PETSHOP\bin\Debug\net8.0\ConsoleAppHW7PETSHOP.exe
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppHW7PETSHOP\ConsoleAppHW7PETSHOP\bin\Debug\net8.0\ConsoleAppHW7PETSHOP.deps.json
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppHW7PETSHOP\ConsoleAppHW7PETSHOP\bin\Debug\net8.0\ConsoleAppHW7PETSHOP.runtimeconfig.json
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppHW7PETSHOP\ConsoleAppHW7PETSHOP\bin\Debug\net8.0\ConsoleAppHW7PETSHOP.dll
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppHW7PETSHOP\ConsoleAppHW7PETSHOP\bin\Debug\net8.0\ConsoleAppHW7PETSHOP.pdb
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppHW7PETSHOP\ConsoleAppHW7PETSHOP\obj\Debug\net8.0\ConsoleAppHW7PETSHOP.dll
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppHW7PETSHOP\ConsoleAppHW7PETSHOP\obj\Debug\net8.0\refint\ConsoleAppHW7PETSHOP.dll
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppHW7PETSHOP\ConsoleAppHW7PETSHOP\obj\Debug\net8.0\ConsoleAppHW7PETSHOP.pdb
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppHW7PETSHOP\ConsoleAppHW7PETSHOP\obj\Debug\net8.0\ConsoleAppHW7PETSHOP.genruntimeconfig.cache
+C:\Users\mirek\source\repos\ConsoleAppCalc\ConsoleAppHW7PETSHOP\ConsoleAppHW7PETSHOP\obj\Debug\net8.0\ref\ConsoleAppHW7PETSHOP.dll

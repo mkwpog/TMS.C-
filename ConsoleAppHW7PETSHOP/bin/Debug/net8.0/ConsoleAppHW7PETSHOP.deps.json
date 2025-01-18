@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleAppHW7PETSHOP/1.0.0": {
+        "runtime": {
+          "ConsoleAppHW7PETSHOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppHW7PETSHOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
