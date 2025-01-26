@@ -2,7 +2,7 @@
 {
     public class Program
     {
-        public class MyStack<T>
+        public class MyStack<T> //pull
         {
             public List<T> _items; 
 
