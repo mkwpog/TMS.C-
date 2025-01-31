@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mirek\\source\\repos\\ConsoleAppCalc\\ConsoleAppHW5\\ConsoleAppHW5\\ConsoleAppHW5.csproj",
+      "projectUniqueName": "C:\\Users\\mirek\\source\\repos\\mkwpog\\TMS.C-\\ConsoleAppHW5\\ConsoleAppHW5.csproj",
       "projectName": "ConsoleAppHW5",
-      "projectPath": "C:\\Users\\mirek\\source\\repos\\ConsoleAppCalc\\ConsoleAppHW5\\ConsoleAppHW5\\ConsoleAppHW5.csproj",
+      "projectPath": "C:\\Users\\mirek\\source\\repos\\mkwpog\\TMS.C-\\ConsoleAppHW5\\ConsoleAppHW5.csproj",
       "packagesPath": "C:\\Users\\mirek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mirek\\source\\repos\\ConsoleAppCalc\\ConsoleAppHW5\\ConsoleAppHW5\\obj\\",
+      "outputPath": "C:\\Users\\mirek\\source\\repos\\mkwpog\\TMS.C-\\ConsoleAppHW5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

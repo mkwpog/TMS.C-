@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppHW5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5a816e46ff3e0a173b4b24da2663a0dc3878e03")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6afb0a6325e43553101011d71e7279dd5ae195ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppHW5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppHW5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
