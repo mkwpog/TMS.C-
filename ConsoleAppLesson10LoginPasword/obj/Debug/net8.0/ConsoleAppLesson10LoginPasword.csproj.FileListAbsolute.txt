@@ -1,0 +1,15 @@
+C:\Users\mirek\source\repos\mkwpog\TMS.C-\ConsoleAppLesson10LoginPasword\obj\Debug\net8.0\ConsoleAppLesson10LoginPasword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirek\source\repos\mkwpog\TMS.C-\ConsoleAppLesson10LoginPasword\obj\Debug\net8.0\ConsoleAppLesson10LoginPasword.AssemblyInfoInputs.cache
+C:\Users\mirek\source\repos\mkwpog\TMS.C-\ConsoleAppLesson10LoginPasword\obj\Debug\net8.0\ConsoleAppLesson10LoginPasword.AssemblyInfo.cs
+C:\Users\mirek\source\repos\mkwpog\TMS.C-\ConsoleAppLesson10LoginPasword\obj\Debug\net8.0\ConsoleAppLesson10LoginPasword.csproj.CoreCompileInputs.cache
+C:\Users\mirek\source\repos\mkwpog\TMS.C-\ConsoleAppLesson10LoginPasword\obj\Debug\net8.0\ConsoleAppLesson10LoginPasword.sourcelink.json
+C:\Users\mirek\source\repos\mkwpog\TMS.C-\ConsoleAppLesson10LoginPasword\bin\Debug\net8.0\ConsoleAppLesson10LoginPasword.exe
+C:\Users\mirek\source\repos\mkwpog\TMS.C-\ConsoleAppLesson10LoginPasword\bin\Debug\net8.0\ConsoleAppLesson10LoginPasword.deps.json
+C:\Users\mirek\source\repos\mkwpog\TMS.C-\ConsoleAppLesson10LoginPasword\bin\Debug\net8.0\ConsoleAppLesson10LoginPasword.runtimeconfig.json
+C:\Users\mirek\source\repos\mkwpog\TMS.C-\ConsoleAppLesson10LoginPasword\bin\Debug\net8.0\ConsoleAppLesson10LoginPasword.dll
+C:\Users\mirek\source\repos\mkwpog\TMS.C-\ConsoleAppLesson10LoginPasword\bin\Debug\net8.0\ConsoleAppLesson10LoginPasword.pdb
+C:\Users\mirek\source\repos\mkwpog\TMS.C-\ConsoleAppLesson10LoginPasword\obj\Debug\net8.0\ConsoleAppLesson10LoginPasword.dll
+C:\Users\mirek\source\repos\mkwpog\TMS.C-\ConsoleAppLesson10LoginPasword\obj\Debug\net8.0\refint\ConsoleAppLesson10LoginPasword.dll
+C:\Users\mirek\source\repos\mkwpog\TMS.C-\ConsoleAppLesson10LoginPasword\obj\Debug\net8.0\ConsoleAppLesson10LoginPasword.pdb
+C:\Users\mirek\source\repos\mkwpog\TMS.C-\ConsoleAppLesson10LoginPasword\obj\Debug\net8.0\ConsoleAppLesson10LoginPasword.genruntimeconfig.cache
+C:\Users\mirek\source\repos\mkwpog\TMS.C-\ConsoleAppLesson10LoginPasword\obj\Debug\net8.0\ref\ConsoleAppLesson10LoginPasword.dll

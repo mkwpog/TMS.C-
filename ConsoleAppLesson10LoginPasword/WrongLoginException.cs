@@ -6,8 +6,13 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppLesson10LoginPasword
 {
-    public class WrongLoginException
+    public class WrongLoginException : Exception
     {
-
+        public WrongLoginException()
+        {
+        }
+        public WrongLoginException(string message) : base(message)
+        {
+        }
     }
 }

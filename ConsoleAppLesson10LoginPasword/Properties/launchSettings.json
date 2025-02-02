@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "ConsoleAppLesson10LoginPasword": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\mirek\\source\\repos\\mkwpog\\TMS.C-\\ConsoleAppLesson10LoginPasword\\bin"
+    },
+    "Profile 1": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\mirek\\source\\repos\\mkwpog\\TMS.C-\\ConsoleAppLesson10LoginPasword\\bin"
+    },
+    "Profile 2": {
+      "commandName": "Executable"
+    }
+  }
+}
