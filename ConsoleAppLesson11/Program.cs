@@ -1,6 +1,6 @@
 ﻿namespace ConsoleAppLesson11
 {
-    public enum Operation
+    public enum Operation //Pull
     {
         Sum,
         Subtract,
