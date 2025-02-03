@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppHW7PETSHOP
 {
-    public abstract class Product
+    public abstract class Product //pull
     {
         public int Id { get; set; }
         public string Name { get; set; }

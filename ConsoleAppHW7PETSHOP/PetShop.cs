@@ -8,7 +8,7 @@ namespace ConsoleAppHW7PETSHOP
 {
     public class PetShop
     {
-        public List<Product> Products { get; private set; }
+        public List<Product> Products { get; private set; } //pull
 
         public PetShop()
         {

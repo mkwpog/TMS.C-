@@ -6,7 +6,7 @@
         {
 
            
-            var shop = new PetShop();
+            var shop = new PetShop();//pull req
 
            
             shop.AddProduct(new PetFood(1, "Корм сухой", 500, 20, "собаки"));
